@@ -43,7 +43,7 @@
     </ul>
     
   <?php endif; ?>
-
+//this is a comment I have put here.
 
   <?php
   get_footer();
